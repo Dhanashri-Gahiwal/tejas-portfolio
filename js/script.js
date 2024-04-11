@@ -1,6 +1,6 @@
 // typed script
 var typed = new Typed("#element", {
-    strings: ["Web Developer", "Web Designer"],
+    strings: ["Web Developer", "Software Developer"],
     typeSpeed: 100,
   });
 
